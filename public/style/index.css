@@ -1,0 +1,290 @@
+body {
+    background-color: #c1c9f8;
+}
+
+#all {
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #398439;
+    background-size: 100%;
+    background-image: url("http://img02.tooopen.com/images/20160620/tooopen_sy_165702881727.jpg");
+    height: 600px;
+}
+
+#errNameDiv, #errPswDiv {
+    text-align: center;
+
+}
+
+#errName, #errPsw {
+    color: red;
+}
+
+#nameDiv, #passwordDiv {
+    margin: 0 auto;
+}
+
+#login {
+    margin: 0 35%;
+}
+
+#loginToRegister {
+    margin-left: 350px;
+}
+
+.register {
+    width: 480px;
+    margin: 0 auto;
+}
+
+.error-tip {
+    color: red;
+}
+
+.title {
+    text-align: center;
+    border: 1px rosybrown;
+    width: 100%;
+    height: 150px;
+    font-family: "Abyssinica SIL";
+    font-size: 37px;
+}
+
+.page {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url("http://img02.tooopen.com/images/20160620/tooopen_sy_165702881727.jpg");
+    height: 600px;
+}
+
+.header {
+    height: 55px;
+    background-color: #d0e9c6;
+    line-height: 55px;
+}
+
+.row {
+    padding-top: 10px;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.issue-room {
+    background-color: lightseagreen;
+    width: 105px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: auto;
+}
+
+.title-span {
+    font-size: 24px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.price{
+    float: left;
+    font-size: 25px;
+    text-align: center;
+}
+
+.per{
+    float: right;
+    text-align: center;
+}
+
+
+.room1-picture {
+    width: 660px;
+    height: 435px;
+}
+
+.preview {
+    height: 200px;
+    width: 720px;
+}
+
+.room {
+    width: 110px;
+    height: 90px;
+    cursor: pointer;
+}
+
+.day-price {
+    width: 290px;
+    height:25px;
+    text-align: center;
+    margin: 10px 20px;
+
+}
+
+.body-right{
+    float:right;
+    width:330px;
+    height:400px;
+    background-color:#d0e9c6;
+    margin-left: 10px;
+}
+
+.carousel{
+    width:600px;
+    float:left;
+}
+.start {
+    float: left;
+    width:290px;
+    margin:10px 20px;
+}
+.end{
+    float:left;
+    width:290px;
+    margin:10px 20px;
+}
+.subscribe{
+    text-align: center;
+    width: 290px;
+    margin:10px 20px;
+}
+
+.landlord{
+    text-align: center;
+}
+.head-pic{
+    height: 170px;
+    width: 140px;
+}
+
+.name{
+    margin: 10px 10px;
+    text-align: center;
+}
+
+/*hompage*/
+.header {
+    width: 100%;
+    height: 60px;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.span1 {
+    font-size: 30px;
+    font-style: oblique;
+    color: #00b3ee;
+}
+
+.span2 {
+    font-size: 22px;
+}
+
+.left {
+    float: left;
+    width: 700px;
+}
+
+.right {
+    float: right;
+}
+
+.information {
+    float: left;
+    margin-left: 450px;
+}
+
+.p1 {
+    font-size: 50px;
+    color: #666666;
+
+}
+
+.p2 {
+    font-size: 25px;
+    color: #666666;
+
+}
+
+.rent {
+    padding-top: 9px;
+}
+
+.houses {
+    align-content: center;
+    margin-bottom: 100px;
+}
+
+tr {
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+tr img {
+    width: 340px;
+    height: 190px;
+}
+
+tr img:hover {
+    border: 5px solid lightsteelblue;
+}
+
+.tail {
+    width: 100%;
+    height: 100px;
+    background-color: #9da0a4;
+    text-align: center;
+}
+
+.btn {
+    padding: 15px 50px;
+}
+
+.houselist {
+    position: relative;
+}
+
+
+.houselist-footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #bbbbbb;
+    width: 1140px;
+    height: 50px;
+}
+
+.tail {
+    background-color: #bbbbbb;
+    width: 1140px;
+    height: 50px;
+}
+
+.userGuide {
+    height: 530px;
+    font-size: medium;
+    font-weight: bold;
+    font-family: STXingkai;
+}
+
+.userGuideTitle1, .userGuideTitle2, .userGuideTitle3 {
+    color: #fc8c84;
+    font-size: 20px;
+}
