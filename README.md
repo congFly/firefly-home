@@ -14,11 +14,11 @@
 8. 打开浏览器，输入localhost:3000打开firefly-home主页，开始firefly之旅 :)  
 
 ## 小组成员
-1. 同旸       Demo-tong (team leader)  
+1. 同旸       Demo-tong   
 2. 师悦       sharysy  
 3. 刘幸       liuxing-github  
 4. 张莎       Sundaisy1213 (BA)  
-5. 符聪聪     fcc1885  
+5. 符聪聪     fcc1885  (team leader)
 6. 任丹丹     RDD4  
 7. 杜金桥     obligat  
 8. 陈崇发     Afaren (tech leader)  
