@@ -15,7 +15,7 @@
 
 ## 小组成员
 1. 同旸       Demo-tong
-2. 张莎       Sundaisy1213 (BA)
+2. 张莎       Sundaisy1213 
 3. 符聪聪     fcc1885  (team leader)
 4. 任丹丹     RDD4
 5. 杜金桥     obligat
