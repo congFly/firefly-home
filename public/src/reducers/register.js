@@ -1,4 +1,3 @@
-
 export const createUserResult = (state = false, action)=> {
   switch (action.type) {
   case 'ADD_USER':

@@ -1,6 +1,3 @@
-/**
- * Created by zhangsha on 16-8-22.
- */
 import React, {Component} from 'react';//eslint-disable-line no-unused-vars
 import {connect} from 'react-redux';
 import {requestHouseDetails} from '../../actions/housedetails';

@@ -1,6 +1,3 @@
-/**
- * Created by zhangsha on 16-8-22.
- */
 import express from 'express';
 import House from '../models/House';
 

@@ -1,7 +1,3 @@
-/**
- * Created by fcc on 16-8-18.
- */
-
 import express from 'express';
 import House from '../models/House';
 

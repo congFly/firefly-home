@@ -1,6 +1,3 @@
-/**
- * Created by fcc on 16-8-18.
- */
 import request from 'superagent';
 
 export const requestHouseList = (city, sortRule)=> {

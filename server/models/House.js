@@ -1,6 +1,3 @@
-/**
- * Created by fcc on 16-8-18.
- */
 import mongoose from 'mongoose';
 
 const House = mongoose.model('House', {

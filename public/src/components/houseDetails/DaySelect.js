@@ -1,6 +1,3 @@
-/**
- * Created by zhangsha on 16-8-23.
- */
 import React, {Component} from 'react';//eslint-disable-line no-unused-vars
 
 export default class DaySelect extends Component{
