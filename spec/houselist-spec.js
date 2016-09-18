@@ -27,7 +27,7 @@ function callbackForError(err, res, done, house) {
 describe('get', function () {
   beforeAll(()=> {
     spyOn(console, 'log');
-  })
+  });
   it('should return information of houses', (done)=> {
     const expectedCount = 19;
 
@@ -89,14 +89,14 @@ describe('get', function () {
   it('should not return no information of sorted house', (done)=> {
     const city = '成都';
     const sortRule = 'price';
-    const expexted = null;
+    const expected = null;
 
     request
       .get('/api/houses')
       .query({city})
       .query({sortRule})
       .end((err, res)=> {
-        callbackForError(err, res, done, expexted);
+        callbackForError(err, res, done, expected);
       });
   });
 });
