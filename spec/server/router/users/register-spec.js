@@ -1,6 +1,3 @@
-/**
- * Created by zhangsha on 16-8-16.
- */
 'use strict';
 import supertest from 'supertest';
 import app from '../../../../app';

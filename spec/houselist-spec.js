@@ -1,6 +1,3 @@
-/**
- * Created by fcc on 16-8-19.
- */
 'use strict';
 import supertest from 'supertest';
 import app from '../app';

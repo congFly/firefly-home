@@ -1,7 +1,3 @@
-/**
- * Created by zhangsha on 16-8-16.
- */
-
 const checkUsername = (username) => {
   return (/^[A-Za-z0-9_|0-9A-Za-z_]+$/).test(username);
 };

@@ -1,8 +1,8 @@
 #########################################################################
 # File Name: story-ac.sh
-# Author: Afar
-# mail: 550047450@qq.com
-# Created Time: Sat 20 Aug 2016 06:43:56 AM CST
+# Author: fcc
+# mail: 18829291885@163.com.com
+# Created Time: Sat 20 Apirl 2017 14:12:10 AM CST
 #########################################################################
 #!/bin/bash
 

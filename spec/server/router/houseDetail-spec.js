@@ -1,7 +1,3 @@
-/**
- * Created by zhangsha on 16-8-22.
- */
-
 import supertest from 'supertest';
 import app from '../../../app';
 const request = supertest(app);

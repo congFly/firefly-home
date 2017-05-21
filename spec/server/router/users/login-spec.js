@@ -1,6 +1,3 @@
-/**
- * Created by afaren on 8/18/16.
- */
 'use strict';
 
 import supertest from 'supertest';
