@@ -54,9 +54,9 @@ class OrderPage extends Component {
               <tr ref="row">
                 <td><input type="text"/></td>
                 <td>
-                  <form ><label htmlFor="lisence">身份证</label><input type="text"/></form>
+                  <form ><label htmlFor="lisence" placeholder="请输入身份证号码">身份证</label><input type="text"/></form>
                 </td>
-                <td><input type="radio" name="male" value='男'/>男
+                <td><input type="radio" name="male" value='男' checked/>男
                   <input type="radio" name="male" value='女'/>女
                 </td>
                 <td><input type="text"/></td>

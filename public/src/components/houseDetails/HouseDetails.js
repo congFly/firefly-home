@@ -68,8 +68,14 @@ class HouseDetails extends Component {
               <div className="start">
                 <span>入住日期：</span>
                 <select ref="startYear">
+                  <option>2011年</option>
+                  <option>2012年</option>
+                  <option>2013年</option>
+                  <option>2014年</option>
                   <option>2015年</option>
                   <option>2016年</option>
+                  <option>2017年</option>
+                  <option>2018年</option>
                 </select>
                 <MonthSelect ref="startMonth"/>
                 <DaySelect ref="startDay"/>
@@ -77,8 +83,14 @@ class HouseDetails extends Component {
               <div className="end">
                 <span>离开日期：</span>
                 <select ref="endYear">
+                  <option>2011年</option>
+                  <option>2012年</option>
+                  <option>2013年</option>
+                  <option>2014年</option>
                   <option>2015年</option>
                   <option>2016年</option>
+                  <option>2017年</option>
+                  <option>2018年</option>
                 </select>
                 <MonthSelect ref="endMonth"/>
                 <DaySelect ref="endDay"/>
